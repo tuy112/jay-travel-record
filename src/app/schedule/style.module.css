@@ -1,0 +1,52 @@
+.scheduleWrap {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+}
+
+.dayBlock {
+      border-bottom: 1px solid #e5e7eb;
+      padding-bottom: 16px;
+}
+
+.dayTitle {
+      font-size: 16px;
+      font-weight: 700;
+      margin-bottom: 12px;
+}
+
+.dayDate {
+      font-size: 13px;
+      font-weight: 400;
+      color: #9ca3af;
+      margin-left: 6px;
+}
+
+.itemList {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+}
+
+.item {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      font-size: 14px;
+}
+
+.itemTime {
+      width: 48px;
+      flex-shrink: 0;
+      font-weight: 600;
+      color: #2563eb;
+}
+
+.itemPlace {
+      font-weight: 500;
+}
+
+.itemMemo {
+      color: #9ca3af;
+      font-size: 13px;
+}
