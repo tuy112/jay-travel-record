@@ -5,12 +5,12 @@ export const listData: DayShoppingList[] = [
             date: '2026-07-25',
             items: [
                   { id: '1', name: '장사의신 오뎅탕', quantity: '1봉지', checked: true, memo: '인터넷쇼핑' },
-                  { id: '2', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트에서' },
-                  { id: '3', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트에서' },
-                  { id: '4', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트에서' },
-                  { id: '5', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트에서' },
-                  { id: '6', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트에서' },
-                  { id: '7', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트에서' },
+                  { id: '2', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트' },
+                  { id: '3', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트' },
+                  { id: '4', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트' },
+                  { id: '5', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트' },
+                  { id: '6', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트' },
+                  { id: '7', name: '간식', quantity: '1봉지', checked: false, memo: '단양하나로마트' },
             ],
             settlements: [
                   { id: 's1', name: '장사의신 오뎅탕', quantity: '1봉지', price: 15450, location: '인터넷주문', memo: '' },
