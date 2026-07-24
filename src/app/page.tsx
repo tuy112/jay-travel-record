@@ -46,7 +46,7 @@ export default function Home() {
                             className={`${styles.tabBtn} ${activeTab === 'list' ? styles.tabActive : ''}`}
                             onClick={() => setActiveTab('list')}
                             >
-                            장보기목록 + 정산표
+                            장보기목록+정산표
                             </button>
                             <button
                             className={`${styles.tabBtn} ${activeTab === 'travel-record' ? styles.tabActive : ''}`}
